@@ -7,3 +7,5 @@
 
 ## Time Complexity
 `Dizi sıralandıktan sonra 18 sayısı ortada olduğu için Average case kapsamına girer.`
+
+![https://app.patika.dev/OguzEkinci](https://app.patika.dev/OguzEkinci)
